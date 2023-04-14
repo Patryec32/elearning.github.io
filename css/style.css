@@ -1,0 +1,11 @@
+body{
+  font-family: monospace;
+  font-weight: bolder;
+}
+.body{
+  background:url('../img/img1.jpg');
+  height: 100vh;
+}
+.fondo-blanco{
+  background: rgba(255,255,255,.5);
+}
